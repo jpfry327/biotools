@@ -1,0 +1,14 @@
+Package: tractatus
+Title: Helper Functions for Bioinformatics Analysis
+Version: 0.1.0
+Author: Josh Fry <jpf327@gmail.com>
+Maintainer: Josh Fry <jpf327@gmail.com>
+Description: The world is all that is the case.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports:
+    ggplot2,
+    Rtsne
