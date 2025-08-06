@@ -11,6 +11,7 @@ Collection of bioinformatics scripts and utilities
 
 ### Tools
 - [`bam_to_juncdict`](tools/bam_to_juncdict/) - convert BAM file to python dictionary of form `junctions[chrm][(X, Y)]` for junctions at chrm:X-Y
+- [`g177d_finder`](tools/g177d_finder/) - find G177D mutation in chordoma RNA-seq BAM files
 
 ### Nextflow pipeline
 - [`nf_template`](nextflow_pipelines/nf_template/) - template nextflow pipeline to get started. 
